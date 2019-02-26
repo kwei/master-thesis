@@ -1,0 +1,16 @@
+                    Quality=58/70  Signal level=-52 dBm  
+                    ESSID:"BUFFALO-C1E3C4"
+                    Quality=41/70  Signal level=-69 dBm  
+                    ESSID:"SW"
+                    Quality=48/70  Signal level=-62 dBm  
+                    ESSID:"tccg"
+                    Quality=32/70  Signal level=-78 dBm  
+                    ESSID:"gojekers"
+                    Quality=53/70  Signal level=-57 dBm  
+                    ESSID:"fanjun_2.4"
+                    Quality=24/70  Signal level=-86 dBm  
+                    ESSID:"dlink"
+                    Quality=24/70  Signal level=-86 dBm  
+                    ESSID:"Yaimaoz"
+                    Quality=28/70  Signal level=-82 dBm  
+                    ESSID:"Yuan"

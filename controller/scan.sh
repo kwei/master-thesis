@@ -1,0 +1,1 @@
+sudo iwconfig wlan0 | grep "Signal level\|ESSID"

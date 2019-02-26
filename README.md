@@ -145,6 +145,6 @@ d.process();
 - [x] config.env 內容
 - [ ] model 模型
 - [ ] 自定義函式庫(包含測試)
-- [ ] controllers(包含測試)
+- [x] controllers(包含測試)
 - [ ] KNN 演算法
 - [ ] 整合並完成
